@@ -1,4 +1,4 @@
-# Chuck norris API piadas #
+# Chuck Norris API piadas #
 
 ![print](src/assets/print.png)
 
