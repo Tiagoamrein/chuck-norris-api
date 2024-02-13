@@ -5,7 +5,7 @@
 
 ## Como Executar
 
-<!-- Para uma melhor experiência tenha a extensão do google translate instalada-->
+<strong> Para uma melhor experiência tenha a extensão do google translate instalada </strong>
 
 Siga estas etapas para executar o projeto localmente:
 
